@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Oracle Korea"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다.""
+  bio              : " Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다."
   location         : "Seoul"
   email            :
   links:
