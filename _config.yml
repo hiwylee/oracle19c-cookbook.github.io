@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Oracle Korea"
-  avatar           : 
-  bio              : " Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다."
+  avatar           : "https://github.com/oracle19c-cookbook/oracle19c-cookbook.github.io/blob/master/logo.JPG"
+  bio              : "Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다."
   location         : "Seoul"
   email            :
   links:
