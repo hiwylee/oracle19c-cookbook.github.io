@@ -20,7 +20,7 @@ title                    : "Oracle19c DB CookBook"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
-description              : "Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다."
+description              : ""
 url                      : "https://oracle19c-cookbook.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Oracle Korea"
-  avatar           : ![](https://github.com/oracle19c-cookbook/oracle19c-cookbook.github.io/blob/master/logo.JPG)
+  avatar           : 
   bio              : " Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다."
   location         : "Seoul"
   email            :
