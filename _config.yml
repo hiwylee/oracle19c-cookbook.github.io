@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Oracle19c DB CookBook"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Oracle19c DB CookBook"
+name                     : ""
 description              : "Oracle19c Hands-on 자료와 기타 자료를 모아놨습니다."
 url                      : "https://oracle19c-cookbook.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
