@@ -4,11 +4,7 @@
 
 ### Database General
 
-
-```markdown
-
 1. [Auto-Upgarde](https://github.com/oracle19c-cookbook/Database-General/tree/master/Auto-upgrade)
-2. List
-
-
-```
+2. [Online-Opertation](https://github.com/oracle19c-cookbook/Database-General/tree/master/Online-Opertation)
+3. [Partitioning](https://github.com/oracle19c-cookbook/Database-General/tree/master/Partitioning)
+4. [SQL-PLSQL](https://github.com/oracle19c-cookbook/Database-General/tree/master/SQL-PLSQL)
