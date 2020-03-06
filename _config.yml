@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Oracle Database 19c Cookbook
-image: https://github.com/oracle19c-cookbook/oracle19c-cookbook.github.io/blob/master/logo.JPG
+logo: https://github.com/oracle19c-cookbook/oracle19c-cookbook.github.io/blob/master/logo.JPG
