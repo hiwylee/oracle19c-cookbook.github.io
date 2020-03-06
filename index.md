@@ -32,3 +32,4 @@
 ### Performance Management - 성능 관리
 1. [Performance Management](https://github.com/oracle19c-cookbook/Performance-Management)
 
+![](https://github.com/oracle19c-cookbook/oracle19c-cookbook.github.io/blob/master/Presentation1.jpg)
